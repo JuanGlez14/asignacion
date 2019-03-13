@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<h2>Hello  en main World!</h2>
+<h2>Proyecto de Juan Ignacio</h2>
 <table class="table">
 	<thead>
 		<tr>
